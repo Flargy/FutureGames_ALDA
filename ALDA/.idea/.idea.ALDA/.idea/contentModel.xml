@@ -12,6 +12,31 @@
           <e p="IntLinkedListDouble.cs" t="Include" />
           <e p="IntLinkedListTester.cs" t="Include" />
         </e>
+        <e p="TeacherMaterial" t="Include">
+          <e p="Lab" t="Include">
+            <e p="BinaryTree" t="Include">
+              <e p="BinaryTreeNode.cs" t="Include" />
+              <e p="BinaryTreeNodeMono.cs" t="Include" />
+            </e>
+            <e p="Fibonacci" t="Include">
+              <e p="ArithmetiqueSerie.cs" t="Include" />
+              <e p="Fibonacci.cs" t="Include" />
+            </e>
+            <e p="LinkedList" t="Include">
+              <e p="IntLinkedList.cs" t="Include" />
+              <e p="IntLinkedListMono.cs" t="Include" />
+              <e p="IntLinkedListNode.cs" t="Include" />
+            </e>
+            <e p="PathFinding" t="Include">
+              <e p="Grid2DSearcher.cs" t="Include" />
+              <e p="GridCell2D.cs" t="Include" />
+              <e p="GridCell2DMono.cs" t="Include" />
+              <e p="GridConnected2D.cs" t="Include" />
+              <e p="GridConnected2DMono.cs" t="Include" />
+            </e>
+            <e p="QueueAndLinkedList.cs" t="Include" />
+          </e>
+        </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
