@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\GitHubRepositories\FutureGames_ALDA\ALDA" t="IncludeRecursive">
+    <e p="C:\Users\marlu\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\marlu\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ALDA.485555539.00" t="ExcludeRecursive" />
+    <e p="D:\GitProjects\FutureGames_ALDA\ALDA" t="IncludeRecursive">
       <e p="ALDA.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="BinaryTree.cs" t="Include" />
-          <e p="GenericLinkedList.cs" t="Include" />
-          <e p="IntLinkedList.cs" t="Include" />
-          <e p="IntLinkedListDouble.cs" t="Include" />
-          <e p="IntLinkedListTester.cs" t="Include" />
+          <e p="BinaryTree" t="Include">
+            <e p="BinaryTree.cs" t="Include" />
+            <e p="BinaryTreeMono.cs" t="Include" />
+          </e>
+          <e p="Lists" t="Include">
+            <e p="GenericLinkedList.cs" t="Include" />
+            <e p="IntLinkedList.cs" t="Include" />
+            <e p="IntLinkedListDouble.cs" t="Include" />
+            <e p="IntLinkedListTester.cs" t="Include" />
+          </e>
+          <e p="Quadtree" t="Include">
+            <e p="Point.cs" t="Include" />
+            <e p="Quadtree.cs" t="Include" />
+            <e p="QuadtreeMono.cs" t="Include" />
+            <e p="Rectangle.cs" t="Include" />
+          </e>
         </e>
-        <e p="TeacherMaterial" t="Include">
+        <e p="TeacherMaterials" t="Include">
+          <e p="Extensions" t="Include">
+            <e p="CollectionsExtensions.cs" t="Include" />
+            <e p="ColorExtensions.cs" t="Include" />
+            <e p="TextureExtensions.cs" t="Include" />
+          </e>
+          <e p="FutureGames.Lib.asmdef" t="Include" />
           <e p="Lab" t="Include">
             <e p="BinaryTree" t="Include">
               <e p="BinaryTreeNode.cs" t="Include" />
@@ -27,6 +46,51 @@
               <e p="IntLinkedListMono.cs" t="Include" />
               <e p="IntLinkedListNode.cs" t="Include" />
             </e>
+            <e p="LSystem" t="Include">
+              <e p="LSystemGenerator.cs" t="Include" />
+            </e>
+            <e p="LSystemSimple" t="Include">
+              <e p="LSystemSimple.cs" t="Include" />
+            </e>
+            <e p="LSystemWithInheritance" t="Include">
+              <e p="LSystem.cs" t="Include" />
+              <e p="LSystemAction.cs" t="Include" />
+              <e p="LSystemActionStreet.cs" t="Include" />
+              <e p="LSystemActionTree.cs" t="Include" />
+              <e p="LSystemActor.cs" t="Include" />
+              <e p="LSystemInterpreter.cs" t="Include" />
+              <e p="LSystemMono.cs" t="Include" />
+              <e p="LSystemState.cs" t="Include" />
+            </e>
+            <e p="MarchingSquares" t="Include">
+              <e p="Voxel.cs" t="Include" />
+              <e p="VoxelGrid.cs" t="Include" />
+              <e p="VoxelMap.cs" t="Include" />
+              <e p="VoxelStencile.cs" t="Include" />
+              <e p="VoxelStencileCircle.cs" t="Include" />
+            </e>
+            <e p="MazeGenerators" t="Include">
+              <e p="HexaMaze" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="MazeCellEdgeHexa.cs" t="Include" />
+                  <e p="MazeCellHexa.cs" t="Include" />
+                  <e p="MazeHexa.cs" t="Include" />
+                  <e p="MazePassageHexa.cs" t="Include" />
+                  <e p="MazeWallHexa.cs" t="Include" />
+                </e>
+              </e>
+              <e p="SquaredMaze" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Maze.cs" t="Include" />
+                  <e p="MazeCell.cs" t="Include" />
+                  <e p="MazeCellEdge.cs" t="Include" />
+                  <e p="MazeDirections.cs" t="Include" />
+                  <e p="MazeGenerator.cs" t="Include" />
+                  <e p="MazePassage.cs" t="Include" />
+                  <e p="MazeWall.cs" t="Include" />
+                </e>
+              </e>
+            </e>
             <e p="PathFinding" t="Include">
               <e p="Grid2DSearcher.cs" t="Include" />
               <e p="GridCell2D.cs" t="Include" />
@@ -34,15 +98,34 @@
               <e p="GridConnected2D.cs" t="Include" />
               <e p="GridConnected2DMono.cs" t="Include" />
             </e>
+            <e p="Quadtree" t="Include">
+              <e p="Point.cs" t="Include" />
+              <e p="Quadtree.cs" t="Include" />
+              <e p="QuadtreeMono.cs" t="Include" />
+              <e p="Rectangle.cs" t="Include" />
+            </e>
+            <e p="QuadTreeImageCompression" t="Include">
+              <e p="CompressedTextureGenerator.cs" t="Include" />
+              <e p="CompressedTextureGeneratorMono.cs" t="Include" />
+              <e p="LaplacianOnTexture.cs" t="Include" />
+              <e p="LaplacianOnTextureMono.cs" t="Include" />
+              <e p="QuadtreeTextureCompression.cs" t="Include" />
+              <e p="QuadtreeTextureCompressionMono.cs" t="Include" />
+            </e>
             <e p="QueueAndLinkedList.cs" t="Include" />
+          </e>
+          <e p="Noise" t="Include">
+            <e p="PerlinNoise.cs" t="Include" />
+          </e>
+          <e p="Tests" t="Include">
+            <e p="TestPerlinNoise.cs" t="Include" />
           </e>
         </e>
       </e>
+      <e p="FutureGames.Lib.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
-    <e p="C:\Users\marcus.lundqvist\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\marcus.lundqvist\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ALDA.805955855.00" t="ExcludeRecursive" />
   </component>
 </project>

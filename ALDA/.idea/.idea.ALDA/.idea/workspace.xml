@@ -29,10 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GenericLinkedList.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntLinkedListTester.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BinaryTree.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntLinkedListDouble.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/49F4E7E7-91CC-4FFF-ACD8-8F729E2B1E4C/6e/de492ba5/Texture2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BinaryTree/BinaryTreeMono.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TeacherMaterials/Lab/BinaryTree/BinaryTreeNode.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -41,7 +40,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/IntLinkedListDouble.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntLinkedListTester.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GenericLinkedList.cs" />
+        <option value="$PROJECT_DIR$/Assets/TeacherMaterial/Lab/BinaryTree/BinaryTreeNode.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BinaryTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuadTree/Rectangle.cs" />
+        <option value="$PROJECT_DIR$/Assets/TeacherMaterials/Lab/Quadtree/QuadtreeMono.cs" />
+        <option value="$PROJECT_DIR$/Assets/TeacherMaterials/Lab/Quadtree/Quadtree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuadTree/QuadTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuadTree/Point.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuadTree/QuadTreeMono.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BinaryTree/BinaryTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BinaryTree/BinaryTreeMono.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +95,7 @@
       <updated>1605256120839</updated>
       <workItem from="1605256123941" duration="14279000" />
       <workItem from="1605604006510" duration="357000" />
+      <workItem from="1607502424003" duration="11952000" />
     </task>
     <servers />
   </component>
